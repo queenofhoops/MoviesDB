@@ -1,0 +1,9 @@
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\bin\Debug\MovieDBTesting.dll
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\bin\Debug\MovieDBTesting.pdb
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\bin\Debug\MovieDBTestProject.exe
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\bin\Debug\RestSharp.dll
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\bin\Debug\MovieDBTestProject.pdb
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\bin\Debug\RestSharp.xml
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.csprojResolveAssemblyReference.cache
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.dll
+c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.pdb
