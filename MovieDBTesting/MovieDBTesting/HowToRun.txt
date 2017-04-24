@@ -1,0 +1,10 @@
+How to run:
+
+In MovieDBUnitTesting.cs 
+replace the api key with the api key you wish to use
+string apiKey ={apiKey};
+
+Build the solution
+and click run in the Test Explore
+
+----------------------

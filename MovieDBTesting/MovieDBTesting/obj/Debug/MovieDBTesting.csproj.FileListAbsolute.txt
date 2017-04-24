@@ -7,3 +7,12 @@ c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTes
 c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.csprojResolveAssemblyReference.cache
 c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.dll
 c:\users\nichole\documents\visual studio 2013\Projects\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.pdb
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\bin\Debug\MovieDBTesting.dll
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\bin\Debug\MovieDBTesting.pdb
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\bin\Debug\RestSharp.dll
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\bin\Debug\RestSharp.xml
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.csprojResolveAssemblyReference.cache
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.dll
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\obj\Debug\MovieDBTesting.pdb
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nichole\Documents\GitHub\MoviesDB\MovieDBTesting\MovieDBTesting\bin\Debug\Newtonsoft.Json.xml
